@@ -1,0 +1,12 @@
+.input-box {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+.input-box .am-grid .am-flexbox .am-flexbox-item .am-grid-item-content {
+  padding: 0 !important;
+}
+.input-box .am-grid .am-flexbox .am-flexbox-item .am-grid-item-content .am-grid-text{
+  margin: 0;
+  font-size: 26px; 
+}
